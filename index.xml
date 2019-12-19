@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giovanni Petrantoni</title>
+    <link>/</link>
+    <description>Recent content on Giovanni Petrantoni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2019 18:59:53 +0900</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 01 Nov 2019 18:59:53 +0900</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Giovanni Petrantoni Mid 30s, originally from Italy, Living in Kyoto. Speaks Italian, English and Japanese.
+Twitter - https://twitter.com/voidtarget
+LinkedIn - https://www.linkedin.com/in/giovanni-petrantoni-60602379
+Github - https://github.com/sinkingsugar
+Work experience (from most recent)  Fragcolor Inc.
+ Founded Fragcolor Inc. in Kyoto, a company focused in artificial intelligence with a focus on videogames. Unity plugins in development Game-play assistant AI in development In house AI framework development FPGA Programming and deployment https://fragcolor.xyz   Silicon Studio corp.</description>
+    </item>
+    
+  </channel>
+</rss>
