@@ -5,12 +5,7 @@
     <link>/</link>
     <description>Recent content on Giovanni Petrantoni</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Nov 2019 18:59:53 +0900</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>/about/</link>
@@ -21,8 +16,9 @@
 Twitter - https://twitter.com/voidtarget
 LinkedIn - https://www.linkedin.com/in/giovanni-petrantoni-60602379
 Github - https://github.com/sinkingsugar
-Work experience (from most recent)  Fragcolor Inc.
- Founded Fragcolor Inc. in Kyoto, a company focused in artificial intelligence with a focus on videogames. Unity plugins in development Game-play assistant AI in development In house AI framework development FPGA Programming and deployment https://fragcolor.xyz   Silicon Studio corp.</description>
+Work experience (from most recent)   Ethereum 2 - Nimbus client @ status.im
+ Joined the team to work on the networking layer of the nimbus ETH2 client Core contributor Specialized on the nim-lip2p implementation https://nimbus.team/    Fragcolor Inc.
+ Founded Fragcolor Inc. in Kyoto, a company focused in artificial intelligence with a focus on videogames.</description>
     </item>
     
   </channel>
